@@ -1,1 +1,1 @@
-The following is a repository for the demanded University Assignments, Projects, Personal Course Notes & in general Coursework.
+The following is a repository for curating & formulating Assignments, Projects, Course Notes & in general Coursework in regard to programming; in the context of AI/ML, Econometrics, Quantum Computation, Database Management, Etc.
